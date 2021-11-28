@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Projectile
+  - Soul
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1447960201
+    locked: 0
+  - name: BackgroundItems
+    uniqueID: 1586619383
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EnemyLegs
+    uniqueID: 950363493
+    locked: 0
+  - name: Body
+    uniqueID: 738998053
+    locked: 0
+  - name: EnemyAppearanceLocation
+    uniqueID: 2246887687
+    locked: 0
+  - name: Soul
+    uniqueID: 3163252251
+    locked: 0
+  - name: Drop
+    uniqueID: 1683487725
+    locked: 0
+  - name: Obstacle
+    uniqueID: 4172053291
+    locked: 0
+  - name: WeaponLaser
+    uniqueID: 1267462883
+    locked: 0
+  - name: PlayerLegs
+    uniqueID: 541519933
+    locked: 0
+  - name: Projectile
+    uniqueID: 20560027
+    locked: 0
+  - name: Enemy
+    uniqueID: 2479236057
+    locked: 0
+  - name: PlayerDashTrail
+    uniqueID: 3304585625
+    locked: 0
+  - name: PlayerWeapon
+    uniqueID: 3726996807
+    locked: 0
+  - name: PlayerBody
+    uniqueID: 3978392971
+    locked: 0
+  - name: DefenceTarget
+    uniqueID: 2706216383
+    locked: 0
+  - name: CutterLaser
+    uniqueID: 4163449527
+    locked: 0
+  - name: Border
+    uniqueID: 2705811621
+    locked: 0
+  - name: Berserk
+    uniqueID: 3608190621
+    locked: 0
